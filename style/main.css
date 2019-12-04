@@ -1,0 +1,20 @@
+body{
+    width: 100%;
+}
+#getNewQuote {
+    margin-top: 30px;
+}
+
+.quote-box{
+    height: 100px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+.outer-box{
+    height: 100px;
+    padding: 1px;
+    /* border: 2px solid black; */
+    border-radius: 3px;
+}
